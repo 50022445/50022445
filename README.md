@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 
 ![tryhackme stats](https://raw.githubusercontent.com/12323fdsverv/12323fdsverv/master/assets/thm_propic.png)
+ <img src="https://tryhackme-badges.s3.amazonaws.com/12323fdsverv.png" alt="TryHackMe">
