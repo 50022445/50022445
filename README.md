@@ -12,5 +12,5 @@ In my spare time I am actively working on my programming skills and (offensive) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=50022445&theme=dracula&langs_count=8&layout=compact)]
 
-## Writeups
+## Writeups 🤩
 - [Tryhackme - New York Flankees](https://github.com/50022445/writeups/blob/main/tryhackme/new-york-flankees/index.md) ⚾
