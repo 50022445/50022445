@@ -12,6 +12,7 @@ In my spare time I am actively working on my programming skills and (offensive) 
 ## Writeups 🤩
 - [Tryhackme - New York Flankees](https://github.com/50022445/writeups/blob/main/tryhackme/new-york-flankees/index.md) ⚾
 - [Tryhackme - Bricks Heist](https://github.com/50022445/writeups/blob/main/tryhackme/bricks/index.md) 🧱
+- [Tryhackme - U.A High School](https://github.com/50022445/writeups/blob/main/tryhackme/U.A%20High%20School/index.md) 🏫
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/12323fdsverv.png" alt="TryHackMe">
